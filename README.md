@@ -100,7 +100,7 @@ Manit-Mart/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/KrishnaxVerma/Manit-Mart.git
+   git clone https://github.com/vinaychallapalli/Manit-Mart.git
    cd Manit-Mart
    ```
 
@@ -157,10 +157,4 @@ Manit-Mart/
 - Admin dashboard for content moderation
 - Mobile app development
 
----
 
-## 🤝 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/krishnaxverma/)
-- [GitHub](https://github.com/KrishnaxVerma)
-- [Email](mailto:kv7477000@gmail.com)
