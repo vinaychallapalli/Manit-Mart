@@ -2,15 +2,6 @@
 
 **MANIT Mart** is a modern React-based online marketplace designed specifically for college students to buy and sell products within their campus community. The application offers a smooth and secure user experience with features like Firebase authentication, real-time database, dark mode, and product listing filters.
 
----
-
-## 🔗 Live Demo
-
-- 🌐 [Live Website](https://manit-mart-frontend.onrender.com/)
-- 💻 [GitHub Repository](https://github.com/KrishnaxVerma/Manit-Mart)
-
----
-
 ## ⚙️ Tech Stack
 
 | Technology     | Description                                  |
